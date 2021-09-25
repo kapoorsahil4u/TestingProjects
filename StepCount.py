@@ -63,3 +63,5 @@ plt.show()
 # Plot np_aw_t and show
 plt.plot(np_aw_t)
 plt.show()
+
+To test again
